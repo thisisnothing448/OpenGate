@@ -25,12 +25,6 @@ If your system drive is encrypted with **BitLocker**, flashing a modified BIOS *
 * **Hidden Menus:** Access to restricted sub-menus including **AMD CBS**, **AMD PBS**, and advanced **DRAM Timing Control**.
 * **Power User Rights:** Elevated `Access Rights` for hidden settings, enabling granular control over system stability.
 
-### 2. Visual & Interface Customization
-
-* **Signature Splash Screen:** Custom **Project OpenGate** high-resolution boot logo.
-* **String Injection:** Rebranding of system strings (e.g., "American Megatrends") and customized POST-messages.
-* **GUI Optimization:** Cleanup of redundant UI elements for a faster BIOS experience.
-
 ---
 
 ## 🛠 Installation Guides (Bypassing Signature Checks)
