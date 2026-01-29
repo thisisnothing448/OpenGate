@@ -1,4 +1,4 @@
 ### ASUS OpenGate builds section.
 ---
 ### Motherboards:
-ASUS PRIME A320M-E: Version 6254, Not tested
+**Not tested, instal at your risk** ASUS PRIME A320M-E: Version 6254
