@@ -35,11 +35,12 @@ Official flashing tools usually block modified files. Use these "Zero-Check" met
 
 * **Requirements:** ASUS AI Suite 3 with **EZ Update** module.
 
-1. Place `ORIGINAL.CAP` (official) and `MOD.CAP` (OpenGate) in the same folder.
+1. Place `ORIGINAL.CAP` (official) and `ASUS-MODEL-BIOSVERSION-OG.CAP` (OpenGate) in the same folder.
 2. In **EZ Update**, select `ORIGINAL.CAP`.
 3. Wait for the "Ready to update" message. **DO NOT** click update yet.
-4. In your file explorer, delete `ORIGINAL.CAP` and rename `MOD.CAP` to `ORIGINAL.CAP`.
+4. In your file explorer, delete `ORIGINAL.CAP` and rename `ASUS-MODEL-BIOSVERSION-OG.CAP` to `ORIGINAL.CAP`.
 5. Return to AI Suite and click **Flash/Update**.
+6. **FOR UPDATES 6xxx AND 5xxx** If this steps not working, use **CH341A Programmer**
 
 ### 2. GIGABYTE (Efiflash Bypass)
 
@@ -68,7 +69,7 @@ Official flashing tools usually block modified files. Use these "Zero-Check" met
 **Pre-Flash Checklist:**
 
 1. **Full Dump:** Create a hardware-level backup of your original BIOS chip.
-2. **Recovery Tooling:** Ensure your board supports **CrashFree** or **Flashback**.
+2. **Recovery Tooling:** Ensure your board supports **CrashFree** or **Flashback** or **DualBIOS**.
 3. **Hardware Backup:** Always have a **CH341A Programmer** ready.
 
 ---
